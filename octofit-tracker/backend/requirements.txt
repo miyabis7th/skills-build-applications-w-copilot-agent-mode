@@ -1,5 +1,5 @@
 # OctoFit Tracker backend requirements
 # 参考: monafit-tracker の requirements
 Django>=3.2
- djangorestframework
- pymongo
+djangorestframework
+pymongo
